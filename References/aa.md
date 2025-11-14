@@ -1,3 +1,14 @@
-# Textbook
+# Textbooks
 
-- Confusion Matrix and metric derived from it: D. S. Wilks (Statistical Methods in the Atmospheric Sciences) 
+- AUC, ROC, Confusion Matrix and metric derived from it: D. S. Wilks (Statistical Methods in the Atmospheric Sciences) 
+
+# Papers
+
+- Dai 2018: Galaxy Morphology Classification with Deep CNN [Link](https://arxiv.org/pdf/1807.10406)
+- Dieleman 2015: Rotation-invariant convolutional neural networks for galaxy morphology prediction [Link](https://watermark02.silverchair.com/stv632.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAA1MwggNPBgkqhkiG9w0BBwagggNAMIIDPAIBADCCAzUGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMG1yGw2zyGsaMbf-6AgEQgIIDBls1lII_z1zkR-wskUQfTdLKAfJuLXDREvjnc1jAxofzAaK5HANDwsiqIUy6DySV3d-j9gJdcovo96cbmk_lcoy43-y6kvqfNFB9MwjePnuc2eDh7xmY4Fal3Op3dAt6jfLCo4aPIRikC2cXaHakfNtCLmUKkYorLKTa0e5tvDQhaZw_920IGrrrdxuYLGTk_ERzpe4C3My5d-UIyZQbF6qrm1I4Rp_X4S7z4eYJ6DJ3X1Uap3ZJkEuBcz1txZn9_EL8j2PFHCRam8lbdLKgTAAad6OnqyWmHl_I2hUNL1VxZrY56aNvLADeyHIQauNGVbFQ7MT2iEgWFPQFQgakJKvpUd6sMcKLkym7stWrU0v7v-hspHixzI4fyyfpsiDkD6EeFs6xne7v9qcxL2znBeKOktPHw47_P2GAEkuZNDzolMQomgTIc-1VfCxcT6yhNPm0xLNdX59NrxbCaUfXdP3hxAzFR--ovQZ3nnGrwnbxz1Idni7nyXz_L68WxcumPpJ6JvwAcNCDn_kFwsPEkamtEImeTk26oFInrN1zeyb_232b8Plkga9nraAVSAFR592rVQ6QMIc1uUoqDnQgXkXEZ6NvVqVCXBYgEkdMywy9Lq9D6JkxVcYL4OHynGs7rG8V-mxi6EaBW2F6Ve32bfBZQNxDnud1uPiCOLqa9A9XkVDbJeeEuAlxazUIFL7fhX5M1Lxdrg2gUBV1MtamqRXVGaBG4je0mRf0uT68oI7DOJXciAjOjVpvCQhDxeyLKX4Ml5tjWz3HbTmhu-b5sZlb_2RwnUoip5hoGT1AKMcbNs7cKUg0vEkv-7Srm1c0CtATx1O862jqkiHbfLTcdMUnDOPKETUN8ZmReQS7EvPP_YdpXnvrtS-7-EoMhqOZDFQoteGCWBTik-6U8FF3cgvBufI9rnKTvudHINZAxZH-3OjvdmBZ18EH0IKoIj3M_-MM87_4JLpmPbFRw0JAdYt2wcQzzfEqGFx-MBWTb0XTiqmNBk2L65Upfv3le_1OGaZDkChIRw)
+- Krizhevsky 2012: ImageNet Classification with Deep CNN [Link](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)
+- de la Calleja 2004: Machine learning and image analysis for morphological galaxy classification [Link](https://articles.adsabs.harvard.edu/pdf/2004MNRAS.349...87D)
+
+# Subpar work
+
+- Khalifa 2017: Deep Galaxy: Classification of Galaxies based on Deep Convolutional Neural Networks [Link](https://arxiv.org/pdf/1709.02245)
