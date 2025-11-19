@@ -1,5 +1,11 @@
 # Data documentation
 
+## Link 
+
+GoogleDrive [link](https://drive.google.com/file/d/1jsrL-30OtaZbRtbPHMrBHMsV8HWA3gp4/view?usp=sharing) 
+
+## Data description
+
 Imágenes astronómicas del Sloan Digital Sky Survey. El set de datos consiste en 21.785 imágenes de 69x69 en tamaño, y tres canales (bandas g,r,i). El set de datos incluye
 la etiqueta de cada imagen, por lo cual estamos frente a un problema de clasificación supervisado. Las etiquetas corresponden a un número de 0 a 9.
 
