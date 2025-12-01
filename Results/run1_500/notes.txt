@@ -1,0 +1,3 @@
+same as run1_100 but with 500 epochs
+
+Respecto a los macro averages, debes quitar la clase 5, y quizás otra más, pero al menos la 5 introduce un 0 que en realidad no nos interesa
