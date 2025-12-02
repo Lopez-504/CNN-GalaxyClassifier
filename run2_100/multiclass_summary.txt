@@ -1,0 +1,30 @@
+Multiclass Classification Metric Summary
+
+Dataset: Sample Data
+Classes: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+Total Samples: 3267
+
+
+--- Aggregated (Macro) Metrics ---
+
+Overall Accuracy: 0.7775
+(Micro-Average F1 is equal to Overall Accuracy)
+
+Macro Precision: 0.6217
+Macro Recall: 0.5973
+Macro F1-Score: 0.6050
+
+
+--- Per-Class Metrics (One-vs-Rest) ---
+
+| Class | Precision (P) | Recall (R) | F1-Score |
+| ----- | ----- | ----- | ----- |
+| 0 | 0.5195 | 0.6157 | 0.5635 |
+| 1 | 0.9047 | 0.9047 | 0.9047 |
+| 2 | 0.8779 | 0.8216 | 0.8488 |
+| 3 | 0.6471 | 0.4400 | 0.5238 |
+| 4 | 0.8388 | 0.8826 | 0.8602 |
+| 5 | 0.0000 | 0.0000 | 0.0000 |
+| 6 | 0.7549 | 0.8652 | 0.8063 |
+| 7 | 0.6456 | 0.5426 | 0.5896 |
+| 8 | 0.4286 | 0.4545 | 0.4412 |
