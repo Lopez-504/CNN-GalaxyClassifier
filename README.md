@@ -1,5 +1,5 @@
 # CNN-GalaxyClassifier
-Developing of an CNN for galaxy classification
+Developing a CNN for galaxy classification
 
 
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/6a5e689c-f93d-478c-b683-1ab1f5c62b55" />
